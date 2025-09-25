@@ -2,7 +2,7 @@
 
 🎓 A senior student majoring in **Computer Science** at National Sun Yat-sen University  
 💡 Interested in **Cybersecurity, Wireless Networking, Compiler Design, and Data Science**  
-🌱 Currently working on **Wi-Fi security research** and **compiler projects**  
+
 
 
 ---
