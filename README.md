@@ -7,6 +7,8 @@
 ⚡ Fun fact: I love Minecraft modding and building custom servers 🎮  
 
 ---
+## Resume
+![Resume](https://lh3.googleusercontent.com/sitesv/AICyYdYLFib7m6zTSbF8HZt1tMtKyiCD9MuS03nF17LMOtU34fGCmjIlRbeoEckPH7za8d_Vren33nusqhdGp1c80KFWHAjSnrU_B-msBvZLIp5kJk730b6I93_udYV6E67pZhjEUY1slnh42aCcLLftup117MWYVaD7wLfdRC0nziZQB4ow7CPf6gbo1-hLIo0DGHdoS1-Wg8HJyQij5Eikfk2K54xbwus4HW1VY3U=w1280)
 
 ## 🔧 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
