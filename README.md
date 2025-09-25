@@ -11,32 +11,13 @@
 
 #### 📂 Latest Projects
 
-<!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
+- [Seat Reservation System](https://github.com/xCallmeEDtw/reserve_system) – reserve study room 
+- [GrayScale Editor](https://github.com/xCallmeEDtw/GrayScaleEditor)
+- [Mini Shell](https://github.com/xCallmeEDtw/mini_shell) – Unix Shell implementation in C  
+- [Vote System](https://github.com/xCallmeEDtw/vote-system) – online voting system 
 
 
 ## Resume
 
 <img width="1280" height="1755" alt="unnamed" src="https://github.com/user-attachments/assets/ce3ba35d-16c4-474b-b061-2139f56a5fbe" />
 
-## 🔧 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=xCallmeEDtw&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xCallmeEDtw&layout=compact&theme=tokyonight)
-
----
-
-## 📫 How to reach me
-- GitHub: [xCallmeEDtw](https://github.com/xCallmeEDtw)  
-- Email: *(your email here)*  
-- Portfolio: *(link to Notion/Google Sites/GitHub Pages if you want)*
